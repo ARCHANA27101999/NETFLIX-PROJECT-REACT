@@ -1,0 +1,43 @@
+.logo{
+  /* position:fixed ; */
+  /* //side lle nikkan, */
+  width:180px;
+  left:20px;
+  height:60px
+}
+.avatar{
+  /* position:fixed ; */
+  width:40px;
+  right:20px;
+  height:60px;
+  margin-left: 433px;
+
+
+}
+.navbar{
+  /* position: fixed; */
+  top:0;
+  width:100%;
+  height:80px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(59, 10, 118) !important;
+  
+  
+  /* display: flex !important;
+  position: fixed !important; */
+  
+}
+.ab{
+  margin-left: 103px;
+  color:rgb(201, 17, 79) !important;
+}
+.a{
+  margin-left: 10px;
+  padding-top: 13px;
+  
+  color:rgb(201, 17, 79) !important;
+  font-size: larger;
+  text-decoration: none;
+}

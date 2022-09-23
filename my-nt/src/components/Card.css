@@ -1,0 +1,25 @@
+.row{
+    margin-left: 20px;
+    color: rgb(201, 17, 79);
+    /* display: flex !important; */
+    /* position: fixed !important; */
+
+}
+
+.card1{
+    display: flex !important;
+    padding: 20px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    
+
+}
+.card11{
+    max-height: 225px;
+    margin-right: 10px;
+
+   
+}
+.card1::-webkit-scrollbar{
+    display: None;
+}
